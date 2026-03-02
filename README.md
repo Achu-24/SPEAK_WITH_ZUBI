@@ -112,10 +112,10 @@ http://localhost:3000
 
 ---
 
-Frontend Deploy Link:
+Frontend Deployment Link:
 
 https://speak-with-zubi-pied.vercel.app/
 
-Backend Deploy Link:
+Backend Deployment Link:
 
 https://speak-with-zubi-1-fkm9.onrender.com
