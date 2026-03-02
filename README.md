@@ -98,8 +98,9 @@ http://localhost:5000
 
 3️⃣ Run Frontend (React App)
 
-Open a new terminal:
+## Open a new terminal:
 
+cd .\SPEAK_WITH_ZUBI\
 cd frontend
 npm install
 npm start
