@@ -78,7 +78,6 @@ This project demonstrates:
 
 ---
 
-
 ## How to Run the Project
 
 ### 1️⃣ Clone the Repository
@@ -111,3 +110,14 @@ http://localhost:3000
 
 
 ---
+
+🌐 Live Deployment
+🔹 Frontend (Vercel)
+
+https://speak-with-zubi-pied.vercel.app/
+
+🔹 Backend (Render)
+
+https://speak-with-zubi-1-fkm9.onrender.com
+
+
