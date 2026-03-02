@@ -112,6 +112,7 @@ http://localhost:3000
 ---
 
 🌐 Live Deployment
+
 🔹 Frontend (Vercel)
 
 https://speak-with-zubi-pied.vercel.app/
